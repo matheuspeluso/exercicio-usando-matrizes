@@ -1,0 +1,15 @@
+C:\Users\teteu\Desktop\CURSO DE C#\sessão 6\mastrizes\Exercicio de Fixação\ExercicioDeFixacaoMatrizes\ExercicioDeFixacaoMatrizes\bin\Debug\net6.0\ExercicioDeFixacaoMatrizes.exe
+C:\Users\teteu\Desktop\CURSO DE C#\sessão 6\mastrizes\Exercicio de Fixação\ExercicioDeFixacaoMatrizes\ExercicioDeFixacaoMatrizes\bin\Debug\net6.0\ExercicioDeFixacaoMatrizes.deps.json
+C:\Users\teteu\Desktop\CURSO DE C#\sessão 6\mastrizes\Exercicio de Fixação\ExercicioDeFixacaoMatrizes\ExercicioDeFixacaoMatrizes\bin\Debug\net6.0\ExercicioDeFixacaoMatrizes.runtimeconfig.json
+C:\Users\teteu\Desktop\CURSO DE C#\sessão 6\mastrizes\Exercicio de Fixação\ExercicioDeFixacaoMatrizes\ExercicioDeFixacaoMatrizes\bin\Debug\net6.0\ExercicioDeFixacaoMatrizes.dll
+C:\Users\teteu\Desktop\CURSO DE C#\sessão 6\mastrizes\Exercicio de Fixação\ExercicioDeFixacaoMatrizes\ExercicioDeFixacaoMatrizes\bin\Debug\net6.0\ExercicioDeFixacaoMatrizes.pdb
+C:\Users\teteu\Desktop\CURSO DE C#\sessão 6\mastrizes\Exercicio de Fixação\ExercicioDeFixacaoMatrizes\ExercicioDeFixacaoMatrizes\obj\Debug\net6.0\ExercicioDeFixacaoMatrizes.csproj.AssemblyReference.cache
+C:\Users\teteu\Desktop\CURSO DE C#\sessão 6\mastrizes\Exercicio de Fixação\ExercicioDeFixacaoMatrizes\ExercicioDeFixacaoMatrizes\obj\Debug\net6.0\ExercicioDeFixacaoMatrizes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\teteu\Desktop\CURSO DE C#\sessão 6\mastrizes\Exercicio de Fixação\ExercicioDeFixacaoMatrizes\ExercicioDeFixacaoMatrizes\obj\Debug\net6.0\ExercicioDeFixacaoMatrizes.AssemblyInfoInputs.cache
+C:\Users\teteu\Desktop\CURSO DE C#\sessão 6\mastrizes\Exercicio de Fixação\ExercicioDeFixacaoMatrizes\ExercicioDeFixacaoMatrizes\obj\Debug\net6.0\ExercicioDeFixacaoMatrizes.AssemblyInfo.cs
+C:\Users\teteu\Desktop\CURSO DE C#\sessão 6\mastrizes\Exercicio de Fixação\ExercicioDeFixacaoMatrizes\ExercicioDeFixacaoMatrizes\obj\Debug\net6.0\ExercicioDeFixacaoMatrizes.csproj.CoreCompileInputs.cache
+C:\Users\teteu\Desktop\CURSO DE C#\sessão 6\mastrizes\Exercicio de Fixação\ExercicioDeFixacaoMatrizes\ExercicioDeFixacaoMatrizes\obj\Debug\net6.0\ExercicioDeFixacaoMatrizes.dll
+C:\Users\teteu\Desktop\CURSO DE C#\sessão 6\mastrizes\Exercicio de Fixação\ExercicioDeFixacaoMatrizes\ExercicioDeFixacaoMatrizes\obj\Debug\net6.0\refint\ExercicioDeFixacaoMatrizes.dll
+C:\Users\teteu\Desktop\CURSO DE C#\sessão 6\mastrizes\Exercicio de Fixação\ExercicioDeFixacaoMatrizes\ExercicioDeFixacaoMatrizes\obj\Debug\net6.0\ExercicioDeFixacaoMatrizes.pdb
+C:\Users\teteu\Desktop\CURSO DE C#\sessão 6\mastrizes\Exercicio de Fixação\ExercicioDeFixacaoMatrizes\ExercicioDeFixacaoMatrizes\obj\Debug\net6.0\ExercicioDeFixacaoMatrizes.genruntimeconfig.cache
+C:\Users\teteu\Desktop\CURSO DE C#\sessão 6\mastrizes\Exercicio de Fixação\ExercicioDeFixacaoMatrizes\ExercicioDeFixacaoMatrizes\obj\Debug\net6.0\ref\ExercicioDeFixacaoMatrizes.dll
